@@ -1,0 +1,48 @@
+{
+	"placedetails": [{
+			"name": "Manali-Leh Road Trip",
+			"url": "assets/images/place1.jpg",
+			"description": "The Mecca of all road trips in India, the Manali-Leh Highway has always been a favourite. Be it for the groups or solo travellers, this route outshines any other backpacking trips in India. All -you need to do: get geared up for some adventure, hit the road and reach nowhere! Passing mountains and villages, passing people who are going about their business in a more simple way what will get you appreciate both nature and simplicity. "
+		}, {
+			"name": "Rishikesh",
+			"url": "assets/images/place2.jpg",
+			"description": "Known as the vibrant city Rishikesh is one place which has a lot of things to offer in its bosom. Also known as the ‘Yoganagari’ or the ‘Yoga Capital of the Country’ and the ‘Gateway to the Garhwal Himalayas’, this quaint city is known for its bountiful beauty, sanctity, adventure options and the magnificent places to visit in Rishikesh."
+		}, {
+			"name": "Manali",
+			"url": "assets/images/place3.jpg",
+			"description": "Manali is one of the best tourist places in India. Be it for the fellow mates or solo explorers, this course surpasses some other hiking trips in India! Passing mountains and towns, passing individuals who are continuing on ahead in a more basic manner what will get you acknowledge both nature and straightforwardness"
+
+		}, {
+			"name": "Pushkar",
+			"url": "assets/images/place4.jpg",
+			"description": "This little destination brags of more than 400 sanctuaries and has the Brahma Temple, which is one of its kind in the whole world. Whether you are visiting this place to learn about the ancient culture or just for some recess time, this place will never let you down. "
+
+		}, {
+			"name": "Spiti Valley",
+			"url": "assets/images/place5.jpg",
+			"description": "Popularly known as the ‘Little Tibet’ , the spiti valley is located in between Tibet and India. This defines its name ‘Spiti’, which means the ‘Middle Land’. The Spiti Valley is a desert mountain valley based in the north-eastern part of Himachal Pradesh. Visit this place and be awe-struck by the gigantic snow clad mountains and the captivating vistas. "
+		}, {
+			"name": "Jaipur",
+			"url": "assets/images/place6.jpg",
+			"description": " India’s desert capital of Jaipur, warmly alluded to as the Pink City due to the pink dividers and structures of the old city, draws guests with its shocking reminders of a former period. The most prominent Jaipur attractions and spots to visit are the antiquated royal residences and fortifications, with intricate engineering that serves as a shining indication of their illustrious legacy."
+		}, {
+			"name": "Nainital",
+			"url": "assets/images/place7.jpg",
+			"description": "Enclosed by the volcanic emerald Lake Nainital is one of the largest town and is one of the most talked about place.This is one of the best tourist places in India. It involves a lofty forested valley around the namesake lake Naini. And if you are travelling with your best friends this is just the place for you."
+		}, {
+			"name": "Kasol",
+			"url": "assets/images/place8.jpg",
+			"description": "Words will fall short while you speak about the never ending beauty of this place. And if you are planning for an offbeat wilderness then this is the perfect destination for you. A destination offered with the greater part of nature’s gifts, Kasol is known for its Israeli occupants, Parvati waterway, trekking base-camp and Malana. Kasol is a town in Himachal Pradesh, northern India."
+		}, {
+			"name": "Mumbai",
+			"url": "assets/images/place9.jpg",
+			"description": "The ‘City of dreams’ is quite the holiday destination. Mumbai has always been the dream city for all and while you are here you don’t want to miss the chance of exploring each and every corner of the city. Whether you are indulging in some exciting activities or just investigating some of the famous spot"
+		}, {
+			"name": "Wayanad",
+			"url": "assets/images/place10.jpg",
+			"description": " With the serene mountains and the smothering clouds this place has become of the most loved tourist destination of all. While you are at this place you will be astonished with the myriads of places this hill station has in its bosom."
+		}
+
+	]
+
+}

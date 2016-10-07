@@ -1,0 +1,33 @@
+/*style begins here*/
+h1{
+	color: #8447bc;
+	text-align: center;
+}
+.display_head{
+	color: #cf72b6;
+     text-align: center;
+     margin: 30px 0;
+}
+.resize{
+	height:100px;
+	width:100px;
+	border:1px solid black;
+	margin:10px;
+}
+.enlarge{
+	height:400px;
+	width:400px;
+}
+.description{
+	margin: 30px 10px;
+	text-align: justify;
+}
+a{
+	text-decoration: none;
+	color: #38cdc6;
+	font-size: 20px;
+	outline: none;
+}
+li{
+	list-style-type: none;
+}
